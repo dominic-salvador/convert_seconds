@@ -11,4 +11,4 @@ A time converter that converts seconds to a more readable representation.
 
 You can also run convert_seconds in Replit ⠕, a free online coding environment.
 
-[Try it now!](https://replit.com/@dominic-salvado/convertseconds) (start here!)
+[Try it now!](https://replit.com/@dsalvador/convertseconds) (start here!)
